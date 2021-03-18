@@ -1,3 +1,3 @@
 # Labyrinth-solving
 
-![1](https://user-images.githubusercontent.com/77071173/111707645-bde53180-8844-11eb-8b2c-a0437f5f8a69.gif)
+![1 (3)](https://user-images.githubusercontent.com/77071173/111710565-339fcc00-884a-11eb-8110-e866495f26ff.gif)
