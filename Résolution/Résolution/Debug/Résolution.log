@@ -1,0 +1,32 @@
+﻿  connect_cell.c
+  dijkstra.c
+  end_start_node.c
+  enregister_labyrinthe.c
+  entree.c
+  entree_sortie.c
+C:\Users\yousra\Desktop\Projet\Résolution\Résolution\entree_sortie.c(11,12): warning C4013: 'sortie2' non défini(e) ; extern retournant int pris par défaut
+  Initialisation_creation.c
+  Labyninthe_cyc.c
+  Labyrinthe.c
+  main.c
+C:\Users\yousra\Desktop\Projet\Résolution\Résolution\main.c(6,21): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  matrice_adj.c
+  newSDL_Rect.c
+  processInput.c
+  Quiter_detruire.c
+  rand_vois.c
+  rand_vois_nonvi.c
+  recuperer_labyrinthe.c
+  render.c
+  render2.c
+C:\Users\yousra\Desktop\Projet\Résolution\Résolution\render2.c(6,46): warning C4305: 'fonction' : troncation de 'int' à 'Uint8'
+  setup.c
+  Génération de code en cours...
+C:\Users\yousra\Desktop\Projet\Résolution\Résolution\rand_vois.c(196): warning C4715: 'rand_vois' : les chemins de contrôle ne retournent pas tous une valeur
+  Compilation en cours...
+  sortie1.c
+  sortie2.c
+  verifier.c
+  Génération de code en cours...
+C:\Users\yousra\Desktop\Projet\Résolution\Résolution\verifier.c(119): warning C4715: 'verifier' : les chemins de contrôle ne retournent pas tous une valeur
+  Résolution.vcxproj -> C:\Users\yousra\Desktop\Projet\Résolution\Debug\Résolution.exe
